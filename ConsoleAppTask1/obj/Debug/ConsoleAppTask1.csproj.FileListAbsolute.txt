@@ -1,0 +1,7 @@
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.csproj.AssemblyReference.cache
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.csproj.CoreCompileInputs.cache
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.exe.config
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.exe
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.pdb
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.exe
+C:\Users\negul\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.pdb
